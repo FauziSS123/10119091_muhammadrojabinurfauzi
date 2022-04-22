@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10119091_muhammadrojabinurfauzi</string>
+    <string name="login">Login</string>
+    <string name="profil">profil</string>
+    <string name="logout">logout</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="daftar_sekarang">Daftar Sekarang!</string>
+
+
+</resources>

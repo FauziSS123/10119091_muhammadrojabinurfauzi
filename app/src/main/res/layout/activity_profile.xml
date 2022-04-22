@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+nim : 10119091
+nama : muhammadrojabinurfauzi
+tanggal pengerjaan : 19 April 2022
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F8F8FF"
+    tools:context=".ProfileActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="@drawable/gradientbackground"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnkembali"
+                android:layout_width="100dp"
+                android:layout_height="36dp"
+                android:text="@string/kembali"
+                android:background="@drawable/background_btn"/>
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="-20dp"
+                android:padding="5dp"
+                android:src="@drawable/fotosy" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="82dp"
+                android:layout_marginTop="5dp"
+                android:text="Muhammad Rojabi Nur Fauzi"
+                android:textColor="#fff"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="350dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="230dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <LinearLayout
+                    android:layout_width="175dp"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="38dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="68dp"
+                        android:text="NIM"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="92dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-62dp"
+                        android:layout_marginTop="60dp"
+                        android:paddingTop="10dp"
+                        android:text="10119091"
+                        android:textSize="20sp"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="175dp"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="62dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="56dp"
+                        android:text="KELAS"
+                        android:textColor="@android:color/black"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="47dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-57dp"
+                        android:layout_marginTop="60dp"
+                        android:paddingTop="10dp"
+                        android:text="IF - 3"
+                        android:textSize="20sp"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="370dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:weightSum="3">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:padding="18dp"
+                    android:text="Assalamualaikum wr. wb. Perkenalkan nama Saya Muhammad Rojabi Nur Fauzi, Asal dari Bandung. Hobi Saya adalah olahraga Fitness dan berenang. Cita-cita saya ingin menjadi seorang pengusaha sukses yang bisa membanggakan kedua orang tua saya dan juga saya ingin pergi ke tanah suci mekkah bersama kedua orang tua, istri dan anak. Kemudian saya ingin menjadi Ustadz di kampung halaman sendiri, Aamiin Yarabbal Aalamin. "
+                    android:textSize="18sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/background_btm.xml" value="0.2265" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/background_btn.xml" value="0.2265" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/background_linier.xml" value="0.2265" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/gradientbackground.xml" value="0.127" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.127" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.127" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.127" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/lingkaranbiru.xml" value="0.127" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/drawable/lingkaranoren.xml" value="0.127" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/layout/activity_main.xml" value="0.5079726651480638" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi/app/src/main/res/layout/toolbar.xml" value="0.536" />
+        <entry key="..\:/Users/muham/AndroidStudioProjects/10119091_muhammadrojabinurfauzi2/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
