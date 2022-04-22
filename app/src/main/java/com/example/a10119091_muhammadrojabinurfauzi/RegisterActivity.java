@@ -26,7 +26,7 @@ public class RegisterActivity extends Activity implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()){
             case R.id.btndaftar2:
-                Intent pindahIntent = new Intent(RegisterActivity.this, MainActivity.class);
+                Intent pindahIntent = new Intent(RegisterActivity.this, LoginActivity.class);
                 startActivity(pindahIntent);
                 break;
         }
